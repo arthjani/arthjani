@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Arth Jani's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arthjani&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Arth Jani's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthjani&theme=flag-india)](https://github.com/arthjani/github-readme-stats)
+[![Arth Jani's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arthjani&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthjani&theme=flag-india&layout=compact)](https://github.com/arthjani/github-readme-stats)
