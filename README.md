@@ -1,9 +1,5 @@
-<!-- ### Welcome 👋
-[![Arth Jani's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthjani&theme=flag-india)](https://github.com/arthjani/github-readme-stats)
-[![Arth Jani's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arthjani&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Arth Jani's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthjani&theme=flag-india&layout=compact)](https://github.com/arthjani/github-readme-stats)
- -->
-<h1 align="center">Hi 👋, I'm Arth Jani</h1>
+
+<h1 align="center">Hi 👋,  I'm Arth Jani</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthjani&label=Profile%20views&color=0e75b6&style=flat" alt="arthjani" /> </p>
@@ -32,5 +28,10 @@
 1. <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthjani&" alt="arthjani" /></p>
 2. <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthjani&show_icons=true&locale=en&layout=compact" alt="arthjani" /></p>
 3. <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthjani&show_icons=true&locale=en" alt="arthjani" /></p>
+ 
+## Indian style stats
+[![Arth Jani's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthjani&theme=flag-india)](https://github.com/arthjani/github-readme-stats)
+[![Arth Jani's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arthjani&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Arth Jani's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthjani&theme=flag-india&layout=compact)](https://github.com/arthjani/github-readme-stats)
 
 -->
