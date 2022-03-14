@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthjani" alt="arthjani" /></a> </p>
 
-- 🔭 I’m currently working on [USAVisaSlot.com](usavisaslot.com)
+- 🔭 I’m currently working on [USAVisaSlot.com](https://www.usavisaslot.com/)
 
 - 📫 How to reach me **arthjani3@gmail.com**
 
