@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [USAVisaSlot.com](https://www.usavisaslot.com/)
 
 - 📫 How to reach me **arthjani3@gmail.com**
-- 📄 My Resume [Arth Jani](https://www.usavisaslot.com/)
+- 📄 My Resume [Arth Jani](https://github.com/arthjani/arth_jani_resume/blob/main/arth_jani.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
