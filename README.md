@@ -9,9 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthjani" alt="arthjani" /></a> </p> -->
 
 - 🔭 I’m currently working on [Warrior.Town](https://www.warrior.town/)
-- 💻 Last Project [USAVisaSlot.com](https://www.usavisaslot.com/)
-
+<!--- - 💻 Last Project [USAVisaSlot.com](https://www.usavisaslot.com/) --->
 - 📫 How to reach me **arthjani3@gmail.com**
+
 - 📄 My Resume [Arth Jani](https://github.com/arthjani/arth_jani_resume/blob/main/Arth_Resume.pdf)
 
 
